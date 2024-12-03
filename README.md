@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Gabriel Milosz Cruz</h1>
-<h3 align="center">Backend Developer|Typescript|nestJs|nodeJS</h3>
+<h3 align="center">Backend Developer|Typescript|NestJS|NodeJS</h3>
 
 <h3 align="left">Connect:</h3>
 <p align="left">
